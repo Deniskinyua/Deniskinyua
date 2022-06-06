@@ -1,3 +1,75 @@
+
 body {
-    background: blue;
+    background: black;
   }
+  @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Lobster&family=Modak&family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+}
+  .max-width{
+      max-width:  1300px;
+      padding:0 80px;
+      margin:auto;
+  }
+  /*Styling the the navigation bar*/
+  .navbar{
+      position:relative;
+      width:100%;
+      padding:15px 0;
+      background:crimson;
+      font-family:'Ubuntu', sans-serif;
+  }
+  .navbar .max-width{
+      display:flex;
+      align-items:center;
+      justify-content: space-between;
+  }
+  .navbar .logo a{
+      color:#fff;
+      font: size 35px;
+      font-weight: 600;
+  }
+  .navbar .menu li{
+      list-style: none;
+      display:inline-block;
+  }
+  .navbar .menu li a{
+      color:#fff;
+      font-size: 18px;
+      font-weight:500;
+      margin-left: 25px;
+  }
+  /*Let us style the  homesection*/
+  .home{
+      display:flex;
+      background: url(../Deniskinyua/mee.png);
+      background-position: right top;
+      background-repeat: no-repeat;
+      height: 100vh;
+      color: #fff;
+      min-height:500px;
+      font-family:'Ubuntu', sans-serif;
+  }
+  .home .max-width {
+      margin: auto 0 auto 40px;
+  }
+  .home .home-content .text-1{
+      font-size:  27px;
+  }
+  .home .home-content .text-2{
+      font-size: 75px;
+      font-weight: 600;
+      margin-left: -3px; 
+  }
+.home .home-content .text-3{
+    font-size: 40px;
+    margin:5px 0;
+}
+.home .home-content .text-3 span{
+    color:crimson;
+    font-weight: 500;
+    font-family:'Cookie', cursive;
+}
