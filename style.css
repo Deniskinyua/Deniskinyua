@@ -18,8 +18,8 @@ body {
   .navbar{
       position:relative;
       width:100%;
-      padding:15px 0;
-      background:crimson;
+      padding:30px 0;
+      /*background:crimson;*/
       font-family:'Ubuntu', sans-serif;
   }
   .navbar .max-width{
@@ -32,6 +32,9 @@ body {
       font: size 35px;
       font-weight: 600;
   }
+  .navbar .logo a span{
+      color: crimson;
+  }
   .navbar .menu li{
       list-style: none;
       display:inline-block;
@@ -41,6 +44,10 @@ body {
       font-size: 18px;
       font-weight:500;
       margin-left: 25px;
+      transition: color 0.5s ease;
+  }
+  .navbar .menu li a:hover{
+      color: crimson;
   }
   /*Let us style the  homesection*/
   .home{
