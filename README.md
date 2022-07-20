@@ -1,6 +1,11 @@
-![LinkedIn Banner for Finalist](https://user-images.githubusercontent.com/99446511/180093231-4bbba08d-85e3-4e8d-85ab-7c1c06785efd.png)
 # Hi there 👋
 #### I'm Denis Kinyua, a Software Engineer based in Nairobi, Kenya.
+![LinkedIn Banner for Finalist](https://user-images.githubusercontent.com/99446511/180093231-4bbba08d-85e3-4e8d-85ab-7c1c06785efd.png)
+I participated in Unilever Future Leaders League (UFLL) 2022 competitions where my team and I emerged top 5 out of 23 countries globally. This was after conquering East Africa semis and finals, then proceeded to Africa Idea Trophy and clinched 2nd Runners Up position to reserve a slot at the global UFLL. My team then beat 23 other countries to emgerge among the Top 5. 
+Projects created and showcased included:
+- TRESemmé® Hair Studio App (Created with Adobe XD)- UFLL.
+- Ustawi Hub (A multi-service platform for African Women Entrepreneurs (Created with Google Sites)- Unilever Africa Idea Trophy (UAIT).
+-Project Omo Afya - East Africa Finalists
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Deniskinyua&show_icons=true&theme=radical"/>
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniskinyua&layout=compact"/>
