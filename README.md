@@ -42,6 +42,7 @@
 - CSS
 - HTML
 - Javascript
+- React
 
 #### I am aso a student at:
 - Moringa School- Pursuing the Software Enginering (SE) program under cohort sd59-63b remote.
