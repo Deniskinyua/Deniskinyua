@@ -1,3 +1,4 @@
+![LinkedIn Banner for Finalist](https://user-images.githubusercontent.com/99446511/180093231-4bbba08d-85e3-4e8d-85ab-7c1c06785efd.png)
 # Hi there 👋
 #### I'm Denis Kinyua, a Software Engineer based in Nairobi, Kenya.
 
