@@ -4,7 +4,9 @@
 I participated in Unilever Future Leaders League (UFLL) 2022 competitions. This was after conquering East Africa semis and finals, then proceeded to Africa Idea Trophy semis and finals and clinched 2nd Runners Up position to reserve a slot at the global UFLL. My team then beat 23 other countries in the semis  to emgerge among the Top 5 globally and Pos. 1 in Africa. 
 Projects created and showcased included:
 - TRESemmé® Hair Studio App (Created with Adobe XD)- UFLL.
+
 ![TRESemme Hair Studio App](https://user-images.githubusercontent.com/99446511/180923925-37724b2d-e068-40f4-99a8-71e58c1b7c82.jpg)
+
 - Ustawi Hub (A multi-service platform for African Women Entrepreneurs (Created with Google Sites)- Unilever Africa Idea Trophy (UAIT).
 - Project Omo Afya - East Africa Finalists. (UAIT)
 
