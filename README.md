@@ -45,10 +45,9 @@ Projects created and showcased included:
 
 #### I am currently working on:
 -Personal/Portfolio Website 
-- CSS
-- HTML
 - Javascript
 - React
+- Ruby
 
 #### I am aso a student at:
 - Moringa School- Pursuing the Software Enginering (SE) program under cohort sd59-63b remote.
