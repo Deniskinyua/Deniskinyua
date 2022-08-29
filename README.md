@@ -54,3 +54,5 @@ Projects created and showcased included:
 - Alx-Holberton Software Engineering (SE) program.
 - Alx-T (Collaboration between ALX and Udacity) Data Analyst Program.
 - Associate Cloud Engineer under Google Africa Developer Scholarship 2022.
+
+![](https://komarev.com/ghpvc/?username=Deniskinyua&color=green)
