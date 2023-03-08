@@ -31,7 +31,7 @@ Projects created and showcased included:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ![image](https://user-images.githubusercontent.com/99446511/223634605-5ac5942f-deef-4731-8c68-2222420e2582.png) Cloud Technologies
+#### Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -48,12 +48,11 @@ Projects created and showcased included:
 -Personal/Portfolio Website 
 - Javascript
 - React
-- Ruby
+- Spring Boot
 
 #### I am aso a student at:
-- Moringa School- Pursuing the Software Enginering (SE) program under cohort sd59-63b remote.
+- Moringa School- Pursuing the Software Enginering (SE) program.
 - Alx-Holberton Software Engineering (SE) program.
-- Alx-T (Collaboration between ALX and Udacity) Data Analyst Program.
-- Associate Cloud Engineer under Google Africa Developer Scholarship 2022.
+
 
 ![](https://komarev.com/ghpvc/?username=Deniskinyua&color=green)
