@@ -8,7 +8,6 @@ Projects created and showcased included:
 - Project Omo Afya - East Africa Finalists. (UAIT)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Deniskinyua&show_icons=true&theme=radical"/>
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniskinyua&layout=compact"/>
 
 
 ####  🧑‍💻Programming Languages
