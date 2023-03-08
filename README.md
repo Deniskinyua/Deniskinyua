@@ -1,5 +1,8 @@
 # Hi there 👋
-#### I'm Denis Kinyua, a Software Engineer based in Nairobi, Kenya.
+#### I'm Denis Kinyua, a Full Stack Software Engineer and Cloud Engineer
+##### Oracle Cloud Infrastructure Certified Foundations Associate
+##### Oracle Cloud Data Management Certified Foundations Associate
+##### AWS Certified Cloud Practitioner
 
 ####  🧑‍💻Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
