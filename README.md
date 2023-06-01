@@ -4,7 +4,7 @@
 As a Full-stack Software Engineer and Enterprise Java Developer with extensive experience in Cloud Computing, I possess a diverse skill set that allows me to develop end-to-end solutions to multi-tiered software. With expertise in AWS and Oracle Cloud, I am well-versed with designing, deploying and maintaining cloud-based solutions that meet the needs of modern businesses.  My technical proficiency includes Java/J2EE, Spring, Quarkus, Hibernate, Python, React JS, relational databases (Oracle database and PostgreSQL) and NoSQL database (MongoDB).
 
 With deep understanding of software development principles and practices, I collaborate effectively with cross-functional teams in agile ways to deliver high-quality solutions on time and within budget.
-#### Professional Certifications: 
+### Professional Certifications: 
 ##### Oracle Cloud Infrastructure Certified Foundations Associate
 ##### Oracle Cloud Data Management Certified Foundations Associate
 ##### AWS Certified Cloud Practitioner
