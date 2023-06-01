@@ -8,6 +8,8 @@ With deep understanding of software development principles and practices, I coll
 ##### Oracle Cloud Infrastructure Certified Foundations Associate
 ##### Oracle Cloud Data Management Certified Foundations Associate
 ##### AWS Certified Cloud Practitioner
+##### McKinsey & Company Forward Program
+##### ALX Software Engineering
 
 ####  🧑‍💻Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
