@@ -1,7 +1,7 @@
 # Hi there 👋
 #### I'm Denis Kinyua, a Backend Software Engineer
 
-An Oracle Certified Professional (OCP) Java Developer with extensive experience in architecting, building and maintaining enterprise web applications. 
+Possess extensive experience in architecting, building and maintaining enterprise web applications using Python, Django, Java, and SpringBoot. 
 
 ### Professional Certifications: 
 ##### Oracle Cloud Professional (OCP) Java Developer
