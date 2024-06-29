@@ -46,14 +46,8 @@ Possess extensive experience in architecting, building and maintaining enterpris
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### I am currently working on:
--Personal/Portfolio Website 
-- Javascript
-- React
-- Spring Boot
 
 #### I am aso a student at:
-- Moringa School- Pursuing the Software Enginering (SE) program.
 - Alx-Holberton Software Engineering (SE) program.
 
 
