@@ -1,7 +1,7 @@
 # Hi there 👋
 #### I'm Denis Kinyua, a Backend Software Engineer
 
-Possess extensive experience in architecting, building and maintaining enterprise web applications using Python, Django, Java, and SpringBoot. 
+Possess extensive experience in architecting, building and maintaining enterprise web applications using  Java, SpringBoot, C# and ASP.NET 
 
 ### Professional Certifications: 
 ##### Oracle Certified Gen AI Professional
