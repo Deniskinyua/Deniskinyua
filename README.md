@@ -4,10 +4,11 @@
 Possess extensive experience in architecting, building and maintaining enterprise web applications using Python, Django, Java, and SpringBoot. 
 
 ### Professional Certifications: 
-##### Oracle Cloud Professional (OCP) Java Developer
+##### Oracle Certified Gen AI Professional
+##### Oracle Certified Vector Search Professional
 ##### Oracle Cloud Infrastructure Certified Foundations Associate
 ##### Oracle Cloud Data Management Certified Foundations Associate
-##### AWS Certified Cloud Practitioner
+##### Agile SAFe Certified Practitioner
 ##### McKinsey & Company Forward Program
 ##### ALX Software Engineering
 
